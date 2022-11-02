@@ -38,8 +38,6 @@ struct ContentView: View {
             .navigationBarTitle(Text("Users"))
             .navigationBarTitleDisplayMode(.inline)
         }
-
-            
     }
 }
 
